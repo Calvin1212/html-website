@@ -1,0 +1,33 @@
+body {
+	backround :#485b7c;
+	font-family: arial narrow;
+}
+
+h1 {
+	font-size :3em;
+	font-family :Bahnschrift;
+	text-align :center;
+}
+
+p{
+    font-size: 1.2em;
+    font-family :Arial Narrow;
+    margin : 25px;
+    padding: 40px;
+	text-align: justify;
+    text-justify: inter-word;
+}
+
+h2 {font-size :2em;
+	font-family :Bahnschrift Condensed;
+	 text-align: center;
+}
+
+br{
+	 font-size:2em;
+    font-family :Arial Narrow;
+	text-align :center;
+	 margin : 25px;
+    padding: 40px;
+	
+}
